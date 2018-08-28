@@ -1,4 +1,4 @@
-# RFS 4000
+RFS 4000
 
 i stumbled upon this rfs4000 controller with software wing 5.2 
 
