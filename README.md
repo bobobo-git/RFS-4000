@@ -10,4 +10,5 @@ There you can select a halt option near the execute button (amongst others).
 
 ![look](show.png)
 
-[RFS-4000](https://bobobo-git.github.io/RFS-4000/) <a style="float:right;" href="https://github.com/bobobo-git/RFS-4000/">.</a>
+[RFS-4000](https://bobobo-git.github.io/RFS-4000/) <a style="float:right;" href="https://github.com/bobobo-git/RFS-4000/">.</a>  <br>
+[wiki](https://github.com/bobobo-git/RFS-4000/wiki)
