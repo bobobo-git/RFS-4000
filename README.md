@@ -6,7 +6,7 @@ i stumbled upon this rfs4000 controller with software wing 5.2
 
 one problem i had was to shutdown the device correct.   
 i found the shutdown button in the Wing under Operations, at the device's details at the bottom of the pwge.  
-There you can select a halt optinon near the execute button (amongst others).
+There you can select a halt option near the execute button (amongst others).
 
 ![look](show.png)
 
